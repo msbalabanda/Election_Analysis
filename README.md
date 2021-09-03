@@ -12,28 +12,39 @@
 Data Source: election_results.csv
 Software: Python 3.8.2, Visual Studio Code 1.58.2
 
-## Summary
-The analysis of the election shows that:
+## Election-Audit Results
+*The analysis of the election shows that:
 
 There were 369,711 votes cast in the election.
 
-The candidates were:
+* The candidates were:
 
 Charles Casper Stockham
 Diana DeGette
 Raymon Anthony Doane
 
-The candidate results were:
+* The number of votes and the percentage of the total votes each candidate received were:
 
 Charles Casper Stockham received 23.0% of the vote, for a total of 85,213 votes.
 Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
 Raymon Anthony Doane received 3.1% of the vote, for a total of 11,606 votes.
 
-The winner of the election was:
+* The winner of the election was:
 
 Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
 
-## Challenge Overview
+* The voter turnout for each county was:
 
-## Challenge results
+Jefferson produced 10.5% of voters, for a total of 38,855 voters.
+Denver produced 82.8% of voters, for a total of 306,055 voters.
+Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
+
+* The county with the largest voter turnout was:
+
+Denver, which produced 82.8% of voters, for a total of 306,055 voters.
+
+<img width="294" alt="Screen Shot 2021-09-03 at 4 41 57 AM" src="https://user-images.githubusercontent.com/39747985/131977047-b42f88f5-19a0-4e1b-a53c-1d4b2de0bd2c.png">
+
+## Election-Audit Summary
+
 
