@@ -47,4 +47,8 @@ Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 
 ## Election-Audit Summary
 
+The results obtained from the election audit above can provide insight to the Colorado board of elections for future election performance.
+Our audit analysis involved determining the Total number of votes cast, A complete list of candidates who received votes, Total number of votes each candidate received, Percentage of votes each candidate won and The winner of the election based on popular vote. In addition to this we expanded the analysis a little further by examining the voter turnout by county which can be used towards allocating more resources to counties with lower voting turn outs in order to increase the chances of certain candidates winning.
+
+Other than county voting turnout. We can use this script to analyze elections based on states with the use of if-statements in the code. If we had access to data such as state population and GDP, we can examine the voting turn outs and find ways to increase the voter turnouts so that the majority of people's interests are represented by selecting the right candidate during the election process.
 
